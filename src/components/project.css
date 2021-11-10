@@ -1,0 +1,22 @@
+.projectcont{
+    width:40vh;
+    height:45vh;
+    padding:1vh 5vh;
+    background-color: #ffffff;
+    border:none;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projectcaption{
+    margin-top: 2vh;
+    color:#000D39;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.projectimage{
+    width:48vh;
+}

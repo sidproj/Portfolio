@@ -1,0 +1,33 @@
+.eandecontainer{
+    width:145vh;
+    height:fit-content;
+    background-color: #ffffff;
+    border:none;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding:4vh;
+    margin-bottom: 5vh;
+}
+
+.eandeheading{
+    margin-left: 2vh;
+    color:#46E892;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.eandeinfo{
+    margin: 2vh;
+    color:#000D39;
+    font-size: 25px;
+    font-weight: 400;
+}
+li{
+    list-style-type:none
+}
+.eandedata{
+    margin: 0vh 2vh 2vh 5vh;
+    color:#000D39;
+    font-size: 20px;
+}
